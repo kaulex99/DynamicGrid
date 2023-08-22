@@ -1,5 +1,5 @@
 # DynamicGrid
-`DynamicGrid` is a horizontal stack which moves the elements in the next line if there is not enough space in the current line.
+`DynamicGrid` is a horizontal stack for SwiftUI which moves the elements in the next line if there is not enough space in the current line.
 
 ## Requirements
 iOS 16+ and macOS 13+
